@@ -30,15 +30,13 @@ I have leveraged Tableau Public to create compelling visualizations across multi
 - **Key Insights**: Accident hotspots, factors influencing severity, and safety recommendations.
 - **Explore the Dashboard**: [Accident Analysis Dashboard](https://public.tableau.com/app/profile/dev.mithunisvar/viz/USARoadAccidents2017to2023/Dashboard2)
 
-### 3. 📊 **Retail Sales Performance Dashboard**
-- **Description**: Tracks sales performance across different regions and product categories with KPIs like total revenue, profit margins, and year-over-year growth.
-- **Key Insights**: Regional sales trends, profit margins, and growth opportunities.
-- **Explore the Dashboard**: [Retail Sales Dashboard](https://public.tableau.com/views/RetailSalesPerformance/)
+### 4. 🍽️ **Food Inspection & Compliance Dashboard**
+- **Description**: Analyzes inspection results across food establishments, including violation categories, risk levels, inspection outcomes, and compliance trends over time.
+- **Key Insights**: High-risk facility identification, recurring violations, compliance improvement patterns, and areas needing regulatory follow-up.
+- **Explore the Dashboard**: [Food Inspection Dashboard](https://public.tableau.com/app/profile/dev.mithunisvar/viz/ChicagoDallasFoodInspectionDashboard/Dashboard5)
 
-### 4. 🏥 **Healthcare Resource Utilization**
-- **Description**: Visualizes patient volume, resource utilization, and treatment outcomes.
-- **Key Insights**: Optimal resource allocation and patient care optimization.
-- **Explore the Dashboard**: [Healthcare Utilization Dashboard](https://public.tableau.com/views/HealthcareResourceUtilization/)
+
+
 
 ## ⚙️ Key Features
 
