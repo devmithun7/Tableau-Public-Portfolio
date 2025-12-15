@@ -30,7 +30,7 @@ I have leveraged Tableau Public to create compelling visualizations across multi
 - **Key Insights**: Accident hotspots, factors influencing severity, and safety recommendations.
 - **Explore the Dashboard**: [Accident Analysis Dashboard](https://public.tableau.com/app/profile/dev.mithunisvar/viz/USARoadAccidents2017to2023/Dashboard2)
 
-### 4. 🍽️ **Food Inspection & Compliance Dashboard**
+### 3. 🍽️ **Food Inspection & Compliance Dashboard**
 - **Description**: Analyzes inspection results across food establishments, including violation categories, risk levels, inspection outcomes, and compliance trends over time.
 - **Key Insights**: High-risk facility identification, recurring violations, compliance improvement patterns, and areas needing regulatory follow-up.
 - **Explore the Dashboard**: [Food Inspection Dashboard](https://public.tableau.com/app/profile/dev.mithunisvar/viz/ChicagoDallasFoodInspectionDashboard/Dashboard5)
